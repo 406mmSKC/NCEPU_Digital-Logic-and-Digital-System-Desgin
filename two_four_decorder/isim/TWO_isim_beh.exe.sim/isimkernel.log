@@ -1,0 +1,28 @@
+Command line:
+   TWO_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  8444
+
+Fri Dec 02 20:58:32 2022
+
+
+ Elaboration Time: 0.078125 sec
+
+ Current Memory Usage: 880.407 Meg
+
+ Total Signals          : 34
+ Total Nets             : 11
+ Total Signal Drivers   : 11
+ Total Blocks           : 10
+ Total Primitive Blocks : 8
+ Total Processes        : 9
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 372
+
+ Total Simulation Time: 0.09375 sec
+
+ Current Memory Usage: 881.455 Meg
+
+Fri Dec 02 20:58:55 2022
+

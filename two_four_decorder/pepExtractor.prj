@@ -1,0 +1,3 @@
+work	"nand_door.vhd"
+work	"not_door.vhd"
+work	"two_four_decorder.vhd"

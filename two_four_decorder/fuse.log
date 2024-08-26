@@ -1,0 +1,24 @@
+Running: D:\ISE\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o D:/New Folder/two_four_decorder/TWO_isim_beh.exe -prj D:/New Folder/two_four_decorder/TWO_beh.prj work.TWO 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 16
+Turning on mult-threading, number of parallel sub-compilation jobs: 32 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/New Folder/two_four_decorder/not_door.vhd" into library work
+Parsing VHDL file "D:/New Folder/two_four_decorder/nand_door.vhd" into library work
+Parsing VHDL file "D:/New Folder/two_four_decorder/two_four_decorder.vhd" into library work
+Parsing VHDL file "D:/New Folder/two_four_decorder/TWO.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 160792 KB
+Fuse CPU Usage: 93 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity not_door [not_door_default]
+Compiling architecture behavioral of entity nand_door [nand_door_default]
+Compiling architecture behavioral of entity two_four_decorder [two_four_decorder_default]
+Compiling architecture behavior of entity two
+Time Resolution for simulation is 1ps.
+Compiled 9 VHDL Units
+Built simulation executable D:/New Folder/two_four_decorder/TWO_isim_beh.exe
+Fuse Memory Usage: 172560 KB
+Fuse CPU Usage: 156 ms

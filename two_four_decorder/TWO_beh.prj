@@ -1,0 +1,4 @@
+vhdl work "not_door.vhd"
+vhdl work "nand_door.vhd"
+vhdl work "two_four_decorder.vhd"
+vhdl work "TWO.vhd"
