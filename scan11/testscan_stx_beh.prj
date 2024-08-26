@@ -1,0 +1,4 @@
+vhdl isim_temp "Dtrigger.vhd"
+vhdl isim_temp "AND_DOOR.vhd"
+vhdl isim_temp "scan11.vhd"
+vhdl isim_temp "testscan.vhd"

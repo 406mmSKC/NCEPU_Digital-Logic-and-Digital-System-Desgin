@@ -1,0 +1,3 @@
+vhdl work "Dtrigger.vhd"
+vhdl work "AND_DOOR.vhd"
+vhdl work "scan11.vhd"
