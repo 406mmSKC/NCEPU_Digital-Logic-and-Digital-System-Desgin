@@ -1,0 +1,2 @@
+vhdl work "clock_min.vhd"
+vhdl work "clock_mintest.vhd"

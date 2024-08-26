@@ -1,0 +1,22 @@
+Running: D:\ISE\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o D:/New Folder/clock_min/clock_mintest_isim_beh.exe -prj D:/New Folder/clock_min/clock_mintest_beh.prj work.clock_mintest 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 16
+Turning on mult-threading, number of parallel sub-compilation jobs: 32 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/New Folder/clock_min/clock_min.vhd" into library work
+Parsing VHDL file "D:/New Folder/clock_min/clock_mintest.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 160344 KB
+Fuse CPU Usage: 171 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity clock_min [clock_min_default]
+Compiling architecture behavior of entity clock_mintest
+Time Resolution for simulation is 1ps.
+Compiled 7 VHDL Units
+Built simulation executable D:/New Folder/clock_min/clock_mintest_isim_beh.exe
+Fuse Memory Usage: 177488 KB
+Fuse CPU Usage: 265 ms
