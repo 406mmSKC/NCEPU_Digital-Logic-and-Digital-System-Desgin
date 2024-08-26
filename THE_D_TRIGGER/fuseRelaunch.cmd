@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/New Folder/THE_D_TRIGGER/dtrigger_isim_beh.exe" -prj "D:/New Folder/THE_D_TRIGGER/dtrigger_beh.prj" "work.dtrigger" 

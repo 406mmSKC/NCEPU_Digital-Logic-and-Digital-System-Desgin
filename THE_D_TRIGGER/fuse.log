@@ -1,0 +1,22 @@
+Running: D:\ISE\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o D:/New Folder/THE_D_TRIGGER/dtrigger_isim_beh.exe -prj D:/New Folder/THE_D_TRIGGER/dtrigger_beh.prj work.dtrigger 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 16
+Turning on mult-threading, number of parallel sub-compilation jobs: 32 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/New Folder/THE_D_TRIGGER/nand_door.vhd" into library work
+Parsing VHDL file "D:/New Folder/THE_D_TRIGGER/THE_D_TRIGGER.vhd" into library work
+Parsing VHDL file "D:/New Folder/THE_D_TRIGGER/dtrigger.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 160408 KB
+Fuse CPU Usage: 139 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity nand_door [nand_door_default]
+Compiling architecture behavioral of entity THE_D_TRIGGER [the_d_trigger_default]
+Compiling architecture behavior of entity dtrigger
+Time Resolution for simulation is 1ps.
+Compiled 7 VHDL Units
+Built simulation executable D:/New Folder/THE_D_TRIGGER/dtrigger_isim_beh.exe
+Fuse Memory Usage: 172496 KB
+Fuse CPU Usage: 155 ms

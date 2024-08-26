@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/New Folder/THE_D_TRIGGER/Dtrigger.xst" -ofn "D:/New Folder/THE_D_TRIGGER/Dtrigger.syr" 
