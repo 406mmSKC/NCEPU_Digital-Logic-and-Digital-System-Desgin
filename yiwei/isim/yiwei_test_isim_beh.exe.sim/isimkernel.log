@@ -1,0 +1,28 @@
+Command line:
+   yiwei_test_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  14669
+
+Wed Dec 07 16:12:05 2022
+
+
+ Elaboration Time: 0.09375 sec
+
+ Current Memory Usage: 879.874 Meg
+
+ Total Signals          : 29
+ Total Nets             : 15
+ Total Signal Drivers   : 11
+ Total Blocks           : 7
+ Total Primitive Blocks : 5
+ Total Processes        : 8
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 376
+
+ Total Simulation Time: 0.09375 sec
+
+ Current Memory Usage: 880.923 Meg
+
+Wed Dec 07 16:12:22 2022
+

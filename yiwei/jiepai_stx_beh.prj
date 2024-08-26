@@ -1,0 +1,5 @@
+vhdl isim_temp "nand_door.vhd"
+vhdl isim_temp "Dtrigger.vhd"
+vhdl isim_temp "and_door.vhd"
+vhdl isim_temp "yiwei.vhd"
+vhdl isim_temp "jiepai.vhd"

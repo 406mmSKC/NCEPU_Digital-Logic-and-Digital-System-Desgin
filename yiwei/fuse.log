@@ -1,0 +1,24 @@
+Running: D:\ISE\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o D:/New Folder/yiwei/yiwei_test_isim_beh.exe -prj D:/New Folder/yiwei/yiwei_test_beh.prj work.yiwei_test 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 16
+Turning on mult-threading, number of parallel sub-compilation jobs: 32 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/New Folder/yiwei/Dtrigger.vhd" into library work
+Parsing VHDL file "D:/New Folder/yiwei/and_door.vhd" into library work
+Parsing VHDL file "D:/New Folder/yiwei/yiwei.vhd" into library work
+Parsing VHDL file "D:/New Folder/yiwei/yiwei_test.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 160792 KB
+Fuse CPU Usage: 327 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity and_door [and_door_default]
+Compiling architecture behavioral of entity Dtrigger [dtrigger_default]
+Compiling architecture behavioral of entity yiwei [yiwei_default]
+Compiling architecture behavior of entity yiwei_test
+Time Resolution for simulation is 1ps.
+Compiled 9 VHDL Units
+Built simulation executable D:/New Folder/yiwei/yiwei_test_isim_beh.exe
+Fuse Memory Usage: 173648 KB
+Fuse CPU Usage: 358 ms

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/New Folder/yiwei/yiwei_test_isim_beh.exe" -prj "D:/New Folder/yiwei/yiwei_test_beh.prj" "work.yiwei_test" 

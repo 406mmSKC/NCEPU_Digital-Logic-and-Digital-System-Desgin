@@ -1,0 +1,4 @@
+vhdl work "Dtrigger.vhd"
+vhdl work "and_door.vhd"
+vhdl work "yiwei.vhd"
+vhdl work "yiwei_test.vhd"
