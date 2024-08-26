@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/New Folder/clock/test_isim_beh.exe" -prj "D:/New Folder/clock/test_beh.prj" "work.test" 
