@@ -1,0 +1,4 @@
+vhdl work "xor_door.vhd"
+vhdl work "and_door.vhd"
+vhdl work "half_adder.vhd"
+vhdl work "half.vhd"

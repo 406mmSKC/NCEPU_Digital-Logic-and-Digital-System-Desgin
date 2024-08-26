@@ -1,0 +1,24 @@
+Running: D:\ISE\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o D:/half_adder/half_isim_beh.exe -prj D:/half_adder/half_beh.prj work.half 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 16
+Turning on mult-threading, number of parallel sub-compilation jobs: 32 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/half_adder/xor_door.vhd" into library work
+Parsing VHDL file "D:/half_adder/and_door.vhd" into library work
+Parsing VHDL file "D:/half_adder/half_adder.vhd" into library work
+Parsing VHDL file "D:/half_adder/half.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 160664 KB
+Fuse CPU Usage: 218 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity xor_door [xor_door_default]
+Compiling architecture behavioral of entity and_door [and_door_default]
+Compiling architecture behavioral of entity half_adder [half_adder_default]
+Compiling architecture behavior of entity half
+Time Resolution for simulation is 1ps.
+Compiled 9 VHDL Units
+Built simulation executable D:/half_adder/half_isim_beh.exe
+Fuse Memory Usage: 173712 KB
+Fuse CPU Usage: 296 ms

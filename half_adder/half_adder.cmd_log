@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/half_adder/half_adder.xst" -ofn "D:/half_adder/half_adder.syr" 
+xst -intstyle ise -ifn "D:/half_adder/half_adder.xst" -ofn "D:/half_adder/half_adder.syr" 
