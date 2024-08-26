@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/New Folder/full_adder/full_isim_beh.exe" -prj "D:/New Folder/full_adder/full_beh.prj" "work.full" 

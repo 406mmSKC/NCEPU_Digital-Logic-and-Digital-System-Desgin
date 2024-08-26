@@ -1,0 +1,4 @@
+work	"and_door.vhd"
+work	"full_adder.vhd"
+work	"or_door.vhd"
+work	"xor_door.vhd"

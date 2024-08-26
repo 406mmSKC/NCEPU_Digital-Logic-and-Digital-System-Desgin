@@ -1,0 +1,4 @@
+vhdl isim_temp "xor_door.vhd"
+vhdl isim_temp "or_door.vhd"
+vhdl isim_temp "and_door.vhd"
+vhdl isim_temp "full_adder.vhd"
