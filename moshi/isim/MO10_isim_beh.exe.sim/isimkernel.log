@@ -1,0 +1,28 @@
+Command line:
+   MO10_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  14652
+
+Wed Dec 07 16:11:25 2022
+
+
+ Elaboration Time: 0.078125 sec
+
+ Current Memory Usage: 5148.88 Meg
+
+ Total Signals          : 90
+ Total Nets             : 31
+ Total Signal Drivers   : 25
+ Total Blocks           : 20
+ Total Primitive Blocks : 18
+ Total Processes        : 21
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 392
+
+ Total Simulation Time: 0.09375 sec
+
+ Current Memory Usage: 5148.88 Meg
+
+Wed Dec 07 16:11:46 2022
+

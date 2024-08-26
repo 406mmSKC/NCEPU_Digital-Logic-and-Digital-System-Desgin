@@ -1,0 +1,7 @@
+vhdl work "or_two.vhd"
+vhdl work "or_three.vhd"
+vhdl work "Dtrigger.vhd"
+vhdl work "and_two.vhd"
+vhdl work "and_three.vhd"
+vhdl work "moshi.vhd"
+vhdl work "MO10.vhd"
