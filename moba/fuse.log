@@ -1,0 +1,30 @@
+Running: D:\ISE\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o D:/New Folder/moba/Tmoba_isim_beh.exe -prj D:/New Folder/moba/Tmoba_beh.prj work.Tmoba 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 16
+Turning on mult-threading, number of parallel sub-compilation jobs: 32 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/New Folder/moba/two_or_door.vhd" into library work
+Parsing VHDL file "D:/New Folder/moba/two_and_door.vhd" into library work
+Parsing VHDL file "D:/New Folder/moba/three_or_door.vhd" into library work
+Parsing VHDL file "D:/New Folder/moba/three_and_door.vhd" into library work
+Parsing VHDL file "D:/New Folder/moba/Dtrigger.vhd" into library work
+Parsing VHDL file "D:/New Folder/moba/moba.vhd" into library work
+Parsing VHDL file "D:/New Folder/moba/Tmoba.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 160472 KB
+Fuse CPU Usage: 343 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity two_and_door [two_and_door_default]
+Compiling architecture behavioral of entity two_or_door [two_or_door_default]
+Compiling architecture behavioral of entity three_and_door [three_and_door_default]
+Compiling architecture behavioral of entity three_or_door [three_or_door_default]
+Compiling architecture behavioral of entity Dtrigger [dtrigger_default]
+Compiling architecture behavioral of entity moba [moba_default]
+Compiling architecture behavior of entity tmoba
+Time Resolution for simulation is 1ps.
+Compiled 15 VHDL Units
+Built simulation executable D:/New Folder/moba/Tmoba_isim_beh.exe
+Fuse Memory Usage: 174736 KB
+Fuse CPU Usage: 671 ms

@@ -1,0 +1,6 @@
+vhdl work "two_or_door.vhd"
+vhdl work "two_and_door.vhd"
+vhdl work "three_or_door.vhd"
+vhdl work "three_and_door.vhd"
+vhdl work "Dtrigger.vhd"
+vhdl work "moba.vhd"

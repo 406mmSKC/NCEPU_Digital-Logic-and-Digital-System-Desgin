@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/New Folder/moba/Tmoba_isim_beh.exe" -prj "D:/New Folder/moba/Tmoba_beh.prj" "work.Tmoba" 
