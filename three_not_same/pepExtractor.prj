@@ -1,0 +1,4 @@
+work	"and_door.vhd"
+work	"nand_door.vhd"
+work	"not_door.vhd"
+work	"three_not_same.vhd"

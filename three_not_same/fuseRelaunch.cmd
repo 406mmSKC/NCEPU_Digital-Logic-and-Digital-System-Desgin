@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/New Folder/three_not_same/three_isim_beh.exe" -prj "D:/New Folder/three_not_same/three_beh.prj" "work.three" 

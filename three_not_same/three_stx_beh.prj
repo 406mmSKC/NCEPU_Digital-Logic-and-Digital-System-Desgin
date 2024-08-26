@@ -1,0 +1,5 @@
+vhdl isim_temp "not_door.vhd"
+vhdl isim_temp "nand_door.vhd"
+vhdl isim_temp "and_door.vhd"
+vhdl isim_temp "three_not_same.vhd"
+vhdl isim_temp "three.vhd"
